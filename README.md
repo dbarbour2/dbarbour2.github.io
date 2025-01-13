@@ -13,8 +13,10 @@ class because I've always wanted to program in Java.
 
 ## Links
 
-* [LinkedIn](https://www.linkedin.com/in/david-barbour-ab86255}
+* Visit my page on [LinkedIn](https://www.linkedin.com/in/david-barbour-ab86255}
 
-* [LinkedIn]({https://www.LinkedIn.com})
+* Visit my page on [LinkedIn](https://linkedin.com/in/david-barbour-ab86255}
+
+
 
 * Link to DuckDuckGo without a `title` attribute: [DuckDuckGo](https://duckduckgo.com)
