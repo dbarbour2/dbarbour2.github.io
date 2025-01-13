@@ -12,3 +12,5 @@ class because I've always wanted to program in Java.
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn]({www.linkedin.com/in/david-barbour-ab86255})
