@@ -13,12 +13,5 @@ class because I've always wanted to program in Java.
 
 ## Links
 
-* Visit my page on [LinkedIn](https://www.linkedin.com/in/david-barbour-ab86255}
+* Visit my page on: [LinkedIn](https://linkedin.com/in/david-barbour-ab86255)
 
-* Visit my page on [LinkedIn](https://linkedin.com/in/david-barbour-ab86255}
-
-
-
-* Link to DuckDuckGo without a `title` attribute: [DuckDuckGo](https://duckduckgo.com)
-
-* Link to DuckDuckGo without a `title` attribute: [Bob](https://linkedin.com/in/david-barbour-ab86255)
