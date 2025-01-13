@@ -7,4 +7,8 @@ class because I've always wanted to program in Java.
 
 ## Current projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
