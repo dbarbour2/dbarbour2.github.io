@@ -7,10 +7,10 @@ class because I've always wanted to program in Java.
 
 ## Current projects
 
-* [Hello World: Java console application]({https://github.com/ddc-java-20/android-hello-world-dbarbour2.git})
+* [Hello World: Java console application](https://github.com/ddc-java-20/android-hello-world-dbarbour2.git}
 
 * Hello World: Android app
 
 ## Links
 
-* [LinkedIn]({https://www.linkedin.com/in/david-barbour-ab86255})
+* [LinkedIn](https://www.linkedin.com/in/david-barbour-ab86255}
