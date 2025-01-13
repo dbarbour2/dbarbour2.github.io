@@ -14,3 +14,5 @@ class because I've always wanted to program in Java.
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/david-barbour-ab86255}
+
+* [LinkedIn]({https://www.LinkedIn.com})
