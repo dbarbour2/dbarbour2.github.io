@@ -7,7 +7,7 @@ class because I've always wanted to program in Java.
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application]({https://github.com/ddc-java-20/android-hello-world-dbarbour2.git})
 
 * Hello World: Android app
 
